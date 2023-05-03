@@ -3,15 +3,13 @@
 Run the algorithm with:
 - glare_estimator.ipynb
 
-All supporting files and paper data files are available here: https://github.com/mikeyt120/coastal-glare-estimation
-
 Supporting files and folders that need to be in the working directory of glare_estimator.ipynb:
-- phone_images (note that the metadata has been removed from these images for privacy. If you want to check the original metadata used for making table B1 in the paper, please email michael.thompson2@uq.net.au)
 - th_dist_cm.csv
+- phone_images (note that the metadata has been removed from these images for privacy. If you want to check the original metadata used for making table B1 in the paper, please email michael.thompson2@uq.net.au) - this folder is only required if running the verification code cell, the folder is available in the original repository https://github.com/mikeyt120/coastal-glare-estimation
 
 Paper available at https://doi.org/10.1016/j.coastaleng.2022.104190
 
-Supplementary data folders and files:
+Supplementary data folders and files that are available at https://github.com/mikeyt120/coastal-glare-estimation :
 - phone_results_comparison_table_1.xlsx
 - glare_graph_images_section_3p2
 - glare_start_finish_times.xlsx
